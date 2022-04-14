@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/blog/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/blog/blog/first-blog-post"}]}')}}]);
