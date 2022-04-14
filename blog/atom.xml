@@ -1,38 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://github.com/arctichotpot/blog/blog</id>
-    <title>HOTPOT的网上冲浪指南 Blog</title>
-    <updated>2019-05-29T00:00:00.000Z</updated>
+    <title>HOTPOT的网上冲浪指南🌊 Blog</title>
+    <updated>2022-04-14T09:25:35.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://github.com/arctichotpot/blog/blog"/>
-    <subtitle>HOTPOT的网上冲浪指南 Blog</subtitle>
-    <icon>http://github.com/arctichotpot/blog/img/logo.png</icon>
+    <subtitle>HOTPOT的网上冲浪指南🌊 Blog</subtitle>
+    <icon>http://github.com/arctichotpot/blog/img/logo.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="http://github.com/arctichotpot/blog/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>/about</id>
+        <link href="http://github.com/arctichotpot/blog/blog/about"/>
+        <updated>2022-04-14T09:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Hi 👋, 我叫 刘琳,是一名前端工程师]]></summary>
+        <content type="html"><![CDATA[<h3>Hi 👋, 我叫 刘琳,是一名前端工程师</h3><ul><li><p>📫 可以通过邮箱 <strong><a href="mailto:iamliulinin1997@qq.com" target="_blank" rel="noopener noreferrer">iamliulinin1997@qq.com</a></strong> 与我联系</p></li><li><p>⚡ 事实上我觉着我还是挺好相处的哈哈</p></li></ul><p>我目前拥有 3 年工作经验,最熟悉的前端框架是 Vue,偶尔也写一点 React 和 Node</p><p>我平常的爱好是打游戏,旅游和睡觉(不是)</p><p>将来目标是往架构师或者 webgl 的路上走</p><h3 align="left">常用的语言与工具</h3><p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" class="img_E7b_"> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" class="img_E7b_"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="img_E7b_"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" class="img_E7b_"> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" class="img_E7b_"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" class="img_E7b_"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" class="img_E7b_"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" class="img_E7b_"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" class="img_E7b_"> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" class="img_E7b_"> </a> </p>]]></content>
+        <category label="个人" term="个人"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="http://github.com/arctichotpot/blog/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <title type="html"><![CDATA[2022年计划]]></title>
+        <id>2022年计划</id>
+        <link href="http://github.com/arctichotpot/blog/blog/2022年计划"/>
+        <updated>2022-04-14T09:25:35.000Z</updated>
+        <summary type="html"><![CDATA[- [ ] 减肥]]></summary>
+        <content type="html"><![CDATA[<ul class="contains-task-list contains-task-list_tsSF"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->减肥</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->考摩托车驾照以及买一辆摩托车</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->攒一点钱出去玩</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->换工作</li></ul><p>...</p>]]></content>
+        <category label="个人" term="个人"/>
     </entry>
 </feed>
